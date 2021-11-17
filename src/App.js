@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    RUANI VIADÃO
+    LEON COMUNISTA SAFADO!!!
     </div>
   );
 }
